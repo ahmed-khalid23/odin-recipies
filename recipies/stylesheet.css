@@ -1,4 +1,25 @@
 h1 {
+    color: rgb(231, 101, 14);
+}
+
+.headings {
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    color: rgb(241, 91, 80);
+}
+
+body {
+    background-color: rgb(85, 189, 125);
+}
+
+.description {
+    color: rgb(78, 64, 64);
+}
+
+p, li {
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 18px;
+}
+
+.ingredients li {
+    font-size: 22px;
+    color: rgb(146, 115, 29);
 }
