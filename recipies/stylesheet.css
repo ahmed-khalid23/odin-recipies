@@ -26,4 +26,14 @@ p, li {
 
 .steps {
     display: inline-block;
+    border: 4px double black; 
+    background-color: rgb(148, 191, 247);
+    padding: 12px;
+    height: 300px;
+    width: 600px;
+    vertical-align: top;
+}
+
+.steps .headings {
+    color: rgb(207, 60, 109);
 }
